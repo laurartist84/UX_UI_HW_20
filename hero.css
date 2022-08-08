@@ -1,5 +1,5 @@
 .hero-banner {
-  background-image: url(./assets/images/heroimg.png);
+  background-image: url(./assets/images/artist_connect.png);
   background-position: 105%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -14,6 +14,7 @@ h1 {
   font-size: 95px;
   letter-spacing: 0.3px;
   margin: 0;
+  color: black
 }
 
 .hero-message span {
